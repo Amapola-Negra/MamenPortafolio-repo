@@ -3,7 +3,7 @@
 This portfolio started as a project for Scrimba, but now it's my portfolio. 
 <h2>Portfolio</h2>
 <p align="center">
-  <img src="images/PARA-PORTFOLIO.PNG">
+  <img src="MAMEN-PORTFOLIO.PNG">
 </p>
 
 
